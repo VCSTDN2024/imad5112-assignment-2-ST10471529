@@ -77,12 +77,15 @@ class MainActivity2 : AppCompatActivity() {
             currentQuestionIndex++
             if (currentQuestionIndex < questions.size) {
                 questionDisplay.text = questions[currentQuestionIndex]
-                answerDisplay.text = answers[currentQuestionIndex]
+                answerDisplay.text = ""
                 trueBtn.isEnabled = true
                 falseBtn.isEnabled = true
             } else {
                 // All questions have been answered, show results
                 val intent = Intent(this, MainActivity3::class.java)
+                intent.putExtra("score", score)
+                startActivity(intent)
+                finish()
             }
             resultsBtn.setOnClickListener {
                 val intent = Intent(this, MainActivity3::class.java)
