@@ -210,7 +210,7 @@
         android:layout_marginTop="33dp"
         android:layout_marginEnd="105dp"
         android:background="#3562"
-        android:text="| NEXT |"
+        android:text="| REVIEW PAGE |"
         android:textColor="@color/black"
         android:textSize="20sp"
         android:textStyle="bold"

@@ -61,7 +61,7 @@ class MainActivity2 : AppCompatActivity() {
 
         // This line of code is where i've set the first question and answer to be displayed
         questionDisplay.text = questions[currentQuestionIndex]
-        answerDisplay.text = answers[currentQuestionIndex]
+        answerDisplay.text = ""
 
         trueBtn.setOnClickListener {
             if (answers[currentQuestionIndex] == "True") {
