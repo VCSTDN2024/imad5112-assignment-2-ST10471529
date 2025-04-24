@@ -25,10 +25,6 @@ class MainActivity2 : AppCompatActivity() {
             "In Harry Potter, Draco Malfoy has no siblings?",
             "The Tesla Model S has an engine?",
             "Titanic was released in 1997?",
-            "The World Cup Final happened in 2015?",
-            "An engine does not need oil to run?",
-            "An octopus has three hearts?",
-            "The Eiffel Tower is located in Paris?",
         )
         private val answers = arrayOf(
             "True",
@@ -36,10 +32,6 @@ class MainActivity2 : AppCompatActivity() {
             "False",
             "True",
             "False",
-            "True",
-            "False",
-            "False",
-            "True",
             "True",
         )
         // This line of code is simply keeps track of how many questions you have gone through
@@ -109,5 +101,6 @@ class MainActivity2 : AppCompatActivity() {
         val intent = Intent(this, MainActivity3::class.java)
         intent.putExtra("score", score)
         startActivity(intent)
+        finish()
     }
 }
