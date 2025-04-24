@@ -30,7 +30,7 @@
         android:layout_marginTop="296dp"
         android:shadowColor="#66e8ec"
         android:shadowRadius="50"
-        android:text="Test your knowledge out with this app!"
+        android:text="Test your basic knowledge out with this app!"
         android:textAlignment="center"
         android:textSize="25dp"
         android:textStyle="bold"
