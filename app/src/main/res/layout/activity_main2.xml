@@ -7,7 +7,9 @@
     android:layout_height="1000dp"
     android:background="@drawable/wave_background2"
     tools:context=".MainActivity2">
+    <!-- Ive added a drawable file above for the background style-->
 
+    <!-- Displays the question to the user-->
     <TextView
         android:id="@+id/questionDisplay"
         android:layout_width="400dp"
@@ -23,6 +25,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!-- Displays the answer to the user-->
     <TextView
         android:id="@+id/answerDisplay"
         android:layout_width="400dp"
@@ -39,6 +42,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!-- Buttons for the user to select the answer-->
     <Button
         android:id="@+id/trueBtn"
         android:layout_width="150dp"
@@ -55,6 +59,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/answerDisplay" />
 
+    <!-- Buttons for the user to select the answer-->
     <Button
         android:id="@+id/falseBtn"
         android:layout_width="150dp"
@@ -71,6 +76,7 @@
         app:layout_constraintStart_toEndOf="@+id/trueBtn"
         app:layout_constraintTop_toBottomOf="@+id/answerDisplay" />
 
+    <!-- Button for the user to go to the next question-->
     <Button
         android:id="@+id/nextQuestionBtn"
         android:layout_width="200dp"
@@ -86,22 +92,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/answerDisplay" />
-
-    <Button
-        android:id="@+id/resultsBtn"
-        android:layout_width="200dp"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="105dp"
-        android:layout_marginEnd="105dp"
-        android:layout_marginBottom="436dp"
-        android:background="#3562"
-        android:text="| Results Page |"
-        android:textColor="@color/black"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

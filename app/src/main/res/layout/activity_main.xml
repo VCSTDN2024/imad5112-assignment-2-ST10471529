@@ -7,6 +7,7 @@
     android:layout_height="1000dp"
     android:background="@drawable/wave_background"
     tools:context=".MainActivity">
+    <!-- Ive added a drawable file above for the background style-->
 
     <TextView
         android:id="@+id/textView"
@@ -39,6 +40,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!-- This text tells the user to click the button below to start the quiz-->
     <TextView
         android:id="@+id/textView2"
         android:layout_width="400dp"
@@ -55,6 +57,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!-- This button starts the quiz-->
     <Button
         android:id="@+id/startBtn"
         android:layout_width="200dp"

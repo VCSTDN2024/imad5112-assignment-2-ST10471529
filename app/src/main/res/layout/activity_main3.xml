@@ -7,94 +7,55 @@
     android:layout_height="1000dp"
     android:background="@drawable/wave_background4"
     tools:context=".MainActivity3">
+    <!-- Ive added a drawable file above for the background style-->
 
+    <!-- Displays the score to the user-->
     <TextView
-        android:id="@+id/textView13"
+        android:id="@+id/scoreDisplay"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="177dp"
-        android:layout_marginTop="123dp"
-        android:layout_marginEnd="177dp"
-        android:text="TextView"
+        android:layout_marginStart="206dp"
+        android:layout_marginTop="240dp"
+        android:layout_marginEnd="205dp"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!-- Displays the message to the user-->
     <TextView
-        android:id="@+id/textView22"
+        android:id="@+id/messageDisplay"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="177dp"
-        android:layout_marginTop="39dp"
-        android:layout_marginEnd="177dp"
-        android:text="TextView"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView13" />
-
-    <TextView
-        android:id="@+id/textView14"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="9dp"
-        android:layout_marginTop="45dp"
-        android:layout_marginEnd="9dp"
-        android:shadowColor="#66e8ec"
-        android:shadowRadius="50"
-        android:text="To retry the quiz, click below."
-        android:textAlignment="center"
-        android:textSize="30dp"
+        android:layout_marginStart="205dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="206dp"
+        android:text=""
+        android:textSize="25dp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView22" />
+        app:layout_constraintTop_toBottomOf="@+id/scoreDisplay" />
 
+    <!-- Button for the user to go to the review page-->
     <Button
-        android:id="@+id/resetBtn"
-        android:layout_width="200dp"
+        android:id="@+id/reviewBtn"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="106dp"
-        android:layout_marginTop="41dp"
-        android:layout_marginEnd="106dp"
+        android:layout_marginStart="149dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="149dp"
         android:background="#3562"
-        android:text="| RESTART |"
+        android:text="| REVIEW PAGE |"
         android:textColor="@color/black"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView14" />
+        app:layout_constraintTop_toBottomOf="@+id/messageDisplay" />
 
-    <TextView
-        android:id="@+id/textView15"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="118dp"
-        android:layout_marginTop="41dp"
-        android:layout_marginEnd="118dp"
-        android:shadowColor="#66e8ec"
-        android:shadowRadius="50"
-        android:text="Exit the quiz."
-        android:textAlignment="center"
-        android:textSize="30dp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/resetBtn" />
-
-    <Button
-        android:id="@+id/exitBtn"
-        android:layout_width="200dp"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="106dp"
-        android:layout_marginTop="42dp"
-        android:layout_marginEnd="106dp"
-        android:background="#3562"
-        android:text="| EXIT |"
-        android:textColor="@color/black"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView15" />
 </androidx.constraintlayout.widget.ConstraintLayout>

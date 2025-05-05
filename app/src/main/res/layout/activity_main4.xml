@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="1000dp"
+    android:background="@drawable/wave_background4"
+    tools:context=".MainActivity4">
+    <!-- Ive added a drawable file above for the background style-->
+
+    <!-- Displays the question to the user-->
+    <TextView
+        android:id="@+id/questionDisplay1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="146dp"
+        android:shadowColor="#66e8ec"
+        android:shadowRadius="50"
+        android:text="The Earth is round?"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.41"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Displays the answer to the user-->
+    <TextView
+        android:id="@+id/answerDisplay1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="191dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="192dp"
+        android:shadowColor="#66e8ec"
+        android:shadowRadius="50"
+        android:text="True"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/questionDisplay1" />
+
+    <!-- Displays the question to the user-->
+    <TextView
+        android:id="@+id/questionDisplay2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="66dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="66dp"
+        android:shadowColor="#66e8ec"
+        android:shadowRadius="50"
+        android:text="In a deck of cards,the king has a moustache?"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/answerDisplay1" />
+
+    <!-- Displays the answer to the user-->
+    <TextView
+        android:id="@+id/answerDisplay2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="189dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="189dp"
+        android:shadowColor="#66e8ec"
+        android:shadowRadius="50"
+        android:text="False"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/questionDisplay2" />
+
+    <!-- Displays the question to the user-->
+    <TextView
+        android:id="@+id/questionDisplay3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="125dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="125dp"
+        android:shadowColor="#66e8ec"
+        android:shadowRadius="50"
+        android:text=" Volkswagen own's BMW?"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/answerDisplay2" />
+
+    <!-- Displays the answer to the user-->
+    <TextView
+        android:id="@+id/answerDisplay3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="189dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="189dp"
+        android:shadowColor="#66e8ec"
+        android:shadowRadius="50"
+        android:text="False"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/questionDisplay3" />
+
+    <!-- Displays the question to the user-->
+    <TextView
+        android:id="@+id/questionDisplay4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="64dp"
+        android:shadowColor="#66e8ec"
+        android:shadowRadius="50"
+        android:text="In Harry Potter, Draco Malfoy has no siblings?"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/answerDisplay3" />
+
+    <!-- Displays the answer to the user-->
+    <TextView
+        android:id="@+id/answerDisplay4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="191dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="192dp"
+        android:shadowColor="#66e8ec"
+        android:shadowRadius="50"
+        android:text="True"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/questionDisplay4" />
+
+    <!-- Displays the question to the user-->
+    <TextView
+        android:id="@+id/questionDisplay5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="99dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="100dp"
+        android:shadowColor="#66e8ec"
+        android:shadowRadius="50"
+        android:text="The Tesla Model S has an engine?"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/answerDisplay4" />
+
+    <!-- Displays the answer to the user-->
+    <TextView
+        android:id="@+id/answerDisplay5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="188dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="189dp"
+        android:shadowColor="#66e8ec"
+        android:shadowRadius="50"
+        android:text="False"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/questionDisplay5" />
+
+    <!-- Displays the question to the user-->
+    <TextView
+        android:id="@+id/questionDisplay6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="113dp"
+        android:shadowColor="#66e8ec"
+        android:shadowRadius="50"
+        android:text="Titanic was released in 1997?"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/answerDisplay5" />
+
+    <!-- Displays the answer to the user-->
+    <TextView
+        android:id="@+id/answerDisplay6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="191dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="192dp"
+        android:shadowColor="#66e8ec"
+        android:shadowRadius="50"
+        android:text="True"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/questionDisplay6" />
+
+    <!-- Button for the user to restart the quiz-->
+    <Button
+        android:id="@+id/restartBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="144dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="144dp"
+        android:background="#3562"
+        android:text="| RESTART |"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/answerDisplay6" />
+
+    <!-- Button for the user to exit the quiz-->
+    <Button
+        android:id="@+id/exitBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="149dp"
+        android:layout_marginTop="27dp"
+        android:layout_marginEnd="150dp"
+        android:background="#3562"
+        android:text="| EXIT |"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/restartBtn" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
