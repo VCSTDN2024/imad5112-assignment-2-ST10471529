@@ -1,9 +1,9 @@
-# [Game of quizz]
-- **Developer**: [Student Name]
-- **Student Number**: [Your Student Number]
-- **Group**: [Your Group Name or Number]
+# Game of quizz
+- **Developer**: Leander Hughes
+- **Student Number**: ST-10471529
+- **Group**: Group 1
 - **Course**: [Course Name]
-- **Subject**: [Subject Name]
+- **Subject**: IMAD5112
 
 ## Links
 - **GitHub Repository**: [Repository URL]
