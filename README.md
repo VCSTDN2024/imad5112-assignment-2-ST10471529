@@ -13,31 +13,31 @@
 
 ## Project Overview
 
-The **[App Title]** is a mobile application developed as part of an assignment in the [Course Name] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [briefly describe the purpose of the app, e.g., provide a task management system, display weather forecasts, etc.].
+The **Game of quizz** was developed for a mobile app development subject. Used was **Kotlin** and **Android Studio** to create this app. The purpose of the app is to test the user's general knowledge on the app and encourage users to practice more if they don't get satisfaction on their results.
 
-The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
+The app focuses on the requirements of the assignment and meet the expectations and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 
 ---
 
 ## Purpose and Features
 
 ### Purpose:
-The main goal of this app is to [explain the app’s functionality]. 
+The goal of my app is to encourage people to test their common knowledge and gain knowledge from it as well. 
 
 ### Key Features:
-- Feature 1: [Description of a feature, e.g., "User login functionality"]
-- Feature 2: [Description of another feature, e.g., "Displaying weather data based on location"]
-- Feature 3: [Optional, another feature, e.g., "Push notifications for reminders"]
+- When opening the app, the user is greated with straight forward information on the app and what to do as well as indicating how to begin the quizz.
+- Simple to understand and easy to work with making the app easy to operate.
+- Once completing the app there will be more comments on what to do next so the user is not lost when operating the app.
 
-These features aim to provide [what the app aims to achieve, e.g., an easy-to-use platform for managing tasks or organizing personal information].
+These features simply aim to provide a ease of use feeling for the user, especially for those who might be challenged.
 
 ---
 
 ## Design Considerations
 
-The design of the **[App Title]** was based on the following key considerations:
+My design for the **Game of quizz** was based on these ideas and considerations:
 
-1. **User Experience (UX)**: The app was designed with the goal of providing an intuitive and easy-to-navigate user interface, ensuring a seamless user experience.
+1. **User Experience**: The way the app is structured with minimal distractions and easy to read makes it user friendly.
    
 2. **Responsiveness**: The app was built to ensure it performs well on different screen sizes, with particular attention to device compatibility.
    
