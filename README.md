@@ -68,11 +68,22 @@ Once all this is completed, it ensures that the files of my project is guarantee
 ![Screenshot 1]
 ![Home screen page](https://github.com/user-attachments/assets/84b15537-a8a3-4a43-a59e-00bd29626f4a)
 
-*Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
+*Caption for screenshot 1: [This is the Home screen to my quizz game app]*
 
-![Screenshot 2](path_to_screenshot_2.png)
-*Caption for screenshot 2: [Describe the context, e.g., "The user profile screen where personal information is updated."]*
+![Screenshot 2]
+![Main screen and what all consists of it](https://github.com/user-attachments/assets/13617310-ac77-41d6-a8af-96eac095c664)
 
+*Caption for screenshot 2: [This is the Main screen where the user will spend most time on]*
+
+![Screenshot 3]
+![Results page ](https://github.com/user-attachments/assets/bed55a93-96e6-400b-a1e4-a7f14d600bda)
+
+*Caption for screenshot 3: [This is the reults the the user got once the user completed the app]*
+
+![Screenshot 4]
+![Review page](https://github.com/user-attachments/assets/8bcbf7bd-f995-4f68-a8ac-369540e67add)
+
+*Caption for screenshot 4: [This is the review page where the answers and questions are shown]*
 
 
 ### Video Demo:
