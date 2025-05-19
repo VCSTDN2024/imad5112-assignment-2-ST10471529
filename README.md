@@ -85,6 +85,20 @@ Once all this is completed, it ensures that the files of my project is guarantee
 
 *Caption for screenshot 4: [This is the review page where the answers and questions are shown]*
 
+![Screenshot 5]
+![Review 1](https://github.com/user-attachments/assets/8c0ece0b-37a7-4339-a9d9-df16f9a079cd)
+
+*Caption for screenshot : [This is the screenshot of the chat form gemini on my review of the readme file]*
+
+![Screenshot 6]
+![Review 2](https://github.com/user-attachments/assets/342391a0-9e86-4c29-8013-ad8bf0bba421)
+
+*Caption for screenshot : [This is the rest of the screenshot for the chat of gemini]*
+
+![Screenshot 7]
+![Review 3](https://github.com/user-attachments/assets/7a8bc9a4-d793-4793-9fb9-9b30f7993ad8)
+
+*Caption for screenshot : [This is the final half of the entere chat on gemini of my review of the readme file]*
 
 ### Video Demo:
 This is the link to my youtube video which displays the functionality of the app: https://youtu.be/DHFoHUh3qNo .
@@ -124,6 +138,7 @@ While the current version of the app provides the core functionality, there are 
 5. Reference 5: User manual (Sharepoint for IMAD5112): https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/_layouts/15/Doc.aspx?sourcedoc=%7BA1FF62F0-8E1A-47BC-99BD-CA07AE24427D%7D&file=IMAD5112_MM.docx&action=default&mobileredirect=true
 6. Reference 6: (Git hub pushing issue): ChatGPT use: https://chatgpt.com/c/6808e9ef-8634-800a-b04a-c28453c75660
 7. Reference 7: (Gemini use for understanding): Gemini use: https://gemini.google.com/app/84daf70dcfd150d2?hl=en_GB
+8. Reference 8: (Gemini use for review): Gemini use: https://gemini.google.com/app/9055b0fa641ac126?hl=en_GB
 ---
 
 ## List of Figures
@@ -132,6 +147,9 @@ While the current version of the app provides the core functionality, there are 
 - **Figure 2**: Screenshot of the app's main screen.
 - **Figure 3**: Screenshot of the app's result page.
 - **Figure 4**: Screenshot of the app's review page.
+- **Figure 5**: Screenshot of the review of my readme file on gemini.
+- **Figure 6**: Screenshot of the review of my readme file, the second half of what was said.
+- **Figure 7**: Screenshot of the review on my readme file, the final half of what was said.
 
 ---
 
@@ -155,12 +173,13 @@ While working on my app, I have used the help of AI to assist me in fixing issue
 ### 4. **Date accessed when using the AI tools for work:**
 - **Fixing the missing display screens**: Used on the 7th March 2025 for the fix of my screens.
 - **MainActivity3.kt - line 31 to 40**: Used AI to have a look at my lines of code to understand it and see if theres anything wrong with it as well, used on the 15th March 2025.
-- **Final Review of my ReadMe file**: Used gemini on ** for reviewing my final submission.
+- **Final Review of my ReadMe file**: Used gemini on the 19th of May 2025 for reviewing my final submission.
 
 ### 5. **Link to the AI Chat(s) or Screenshots:**
 - **Chat 1**:Link to ChatGPT AI chat: https://chatgpt.com/c/6808e9ef-8634-800a-b04a-c28453c75660
 
 - **Chat 2**: Link to gemini AI chat: https://gemini.google.com/app/84daf70dcfd150d2?hl=en_GB
 
-- **Chat 3 (Grammar Review)**: [Link to the AI conversation/chat](insert_link_here)
+- **Chat 3 (Grammar Review)**: Link to what gemini said to my readme file design: https://gemini.google.com/app/9055b0fa641ac126?hl=en_GB
+
 ---
