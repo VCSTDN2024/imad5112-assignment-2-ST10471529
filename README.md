@@ -7,7 +7,7 @@
 
 ## Links
 - **GitHub Repository**: https://github.com/VCSTDN2024/imad5112-assignment-2-ST10471529.git
-- **YouTube Video**: [YouTube Video Link]
+- **YouTube Video**: https://youtu.be/DHFoHUh3qNo
 
 ---
 
@@ -52,20 +52,22 @@ My design for the **Game of quizz** was based on these ideas and considerations:
 This project was managed using **GitHub** for version control. This is where my codes were pushed constanly every change that I have made. GitHub stored my codes and changes of every time i pushed my code through.
 
 ### GitHub Actions:
-I utilized **GitHub Actions** to automate the build and deployment process. This includes:
+I used **GitHub Actions** to build and deploy my app. It includes:
 
-- Running automated **tests** to ensure the app’s functionality.
-- Compiling the app into **APK** and **AAB** files, which are the formats required for distribution.
-- Uploading these build artifacts to GitHub for easy access.
+-Undergoing a various amount of tests to ensure that my app is running at optimal performance and has no issues.
+- Executing the app into **APK** and **AAB** files in the required parameters.
+- Once making sure the app is done correctly, it will be placed onto github for ease of access to the person who will view my app.
 
-The workflow ensures that my project is automatically built and tested every time I push changes, and it simplifies the process of delivering the final APK/AAB files for submission.
+Once all this is completed, it ensures that the files of my project is guaranteed that it will be pushed and creats tests eachtime that is done.
 
 ---
 
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1](path_to_screenshot_1.png)
+![Screenshot 1]
+![Home screen page](https://github.com/user-attachments/assets/84b15537-a8a3-4a43-a59e-00bd29626f4a)
+
 *Caption for screenshot 1: [Describe the context, e.g., "The home screen of the app showing the task list."]*
 
 ![Screenshot 2](path_to_screenshot_2.png)
