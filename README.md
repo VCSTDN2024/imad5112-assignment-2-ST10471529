@@ -87,7 +87,7 @@ Once all this is completed, it ensures that the files of my project is guarantee
 
 
 ### Video Demo:
-This link takes you to the youtube video which showcases the apps functionality: [YouTube Video Link].
+This is the link to my youtube video which displays the functionality of the app: https://youtu.be/DHFoHUh3qNo .
 
 ---
 
