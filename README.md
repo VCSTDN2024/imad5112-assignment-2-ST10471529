@@ -158,14 +158,10 @@ While working on my app, I have used the help of AI to assist me in fixing issue
 - **Final Review of my ReadMe file**: Used gemini on ** for reviewing my final submission.
 
 ### 5. **Link to the AI Chat(s) or Screenshots:**
-- **Chat 1 (Brainstorming App Features)**: [Link to the AI conversation/chat](insert_link_here)  
-  *(Screenshot/Link to Chat: AI provided feature ideas for app development)*
+- **Chat 1**:Link to ChatGPT AI chat: https://chatgpt.com/c/6808e9ef-8634-800a-b04a-c28453c75660
 
-- **Chat 2 (GitHub Actions Workflow Setup)**: [Link to the AI conversation/chat](insert_link_here)  
-  *(Screenshot/Link to Chat: AI assisted with configuring GitHub Actions for the project)*
+- **Chat 2**: Link to gemini AI chat: https://gemini.google.com/app/84daf70dcfd150d2?hl=en_GB
+![Understanding the use of this code](https://github.com/user-attachments/assets/ea310807-26a0-4bac-8598-7ca10c7d3977)
 
-- **Chat 3 (Grammar Review)**: [Link to the AI conversation/chat](insert_link_here)  
-  *(Screenshot/Link to Chat: AI helped in reviewing and correcting the report’s grammar)*
-
-
+- **Chat 3 (Grammar Review)**: [Link to the AI conversation/chat](insert_link_here)
 ---
