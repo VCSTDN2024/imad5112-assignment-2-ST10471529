@@ -129,9 +129,9 @@ While the current version of the app provides the core functionality, there are 
 ## List of Figures
 
 - **Figure 1**: Screenshot of the app's home screen.
-- **Figure 2**: Screenshot of the user profile screen.
-- **Figure 3**:
-- **Figure 4**:
+- **Figure 2**: Screenshot of the app's main screen.
+- **Figure 3**: Screenshot of the app's result page.
+- **Figure 4**: Screenshot of the app's review page.
 
 ---
 
@@ -161,7 +161,6 @@ While working on my app, I have used the help of AI to assist me in fixing issue
 - **Chat 1**:Link to ChatGPT AI chat: https://chatgpt.com/c/6808e9ef-8634-800a-b04a-c28453c75660
 
 - **Chat 2**: Link to gemini AI chat: https://gemini.google.com/app/84daf70dcfd150d2?hl=en_GB
-![Understanding the use of this code](https://github.com/user-attachments/assets/ea310807-26a0-4bac-8598-7ca10c7d3977)
 
 - **Chat 3 (Grammar Review)**: [Link to the AI conversation/chat](insert_link_here)
 ---
