@@ -117,9 +117,13 @@ While the current version of the app provides the core functionality, there are 
 
 ## References
 
-1. [Reference 1: E.g., any books, articles, or online resources you used during development.]
-2. [Reference 2: Any relevant papers, documentation, or tutorials.]
-
+1. Reference 1: Wavy background (Youtube link): https://www.youtube.com/watch?v=fnZ0B8M2oPw
+2. Reference 2: Website for the background: https://getwaves.io/
+3. Reference 3: Color codes for the wave background source: https://htmlcolorcodes.com/
+4. Reference 4: True or False questions source: https://www.cosmopolitan.com/uk/entertainment/a32612392/best-true-false-quiz-questions/
+5. Reference 5: User manual (Sharepoint for IMAD5112): https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/_layouts/15/Doc.aspx?sourcedoc=%7BA1FF62F0-8E1A-47BC-99BD-CA07AE24427D%7D&file=IMAD5112_MM.docx&action=default&mobileredirect=true
+6. Reference 6: (Git hub pushing issue): ChatGPT use: https://chatgpt.com/c/6808e9ef-8634-800a-b04a-c28453c75660
+7. Reference 7: (Gemini use for understanding): Gemini use: https://gemini.google.com/app/84daf70dcfd150d2?hl=en_GB
 ---
 
 ## List of Figures
